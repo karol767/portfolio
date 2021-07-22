@@ -943,29 +943,29 @@ commited by Yogeshwar Shendye
 
 */
 
-.portfolio-details .portfolio-info2 {
-  padding: 20px;
-  position: left;
-  top: 200;
-  bottom: -40px;
+.portfolio-details .portfolio-info2 {  
+  position: center;
+  padding: 5px;
+  top: 100;
+  bottom: -90px;
   background: #fff;
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
   z-index: 2;
 }
 
 .portfolio-details .portfolio-info2 h3 {
-  font-size: 22px;
-  font-weight: 700;
+  font-size: 19px;
+  font-weight: 600;
   margin-bottom: 20px;
-  padding: 2px;
-  padding-bottom: 20px;
-  border-bottom: 1px solid #eee;
+  padding: 5px;
+  padding-bottom: 5px;
+  border-bottom: 4px solid #eee;
 }
 
 .portfolio-details .portfolio-info2 ul {
   list-style: none;
   padding: 15px;
-  font-size: 19px;
+  font-size: 18px;
 }
 
 /* till here only */
