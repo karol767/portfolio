@@ -203,6 +203,7 @@ a:hover {
 /*------/ Socials /------*/
 .socials {
   padding: 1.5rem 0;
+  text-align: left;
 }
 
 .socials ul li {
@@ -216,7 +217,7 @@ a:hover {
   border-radius: 50%;
   line-height: 1.4;
   margin: 0 15px 0 0;
-  box-shadow: 0 0 0 3px #0078ff;
+  box-shadow: 0 0 0 3px #0078ff;  
   transition: all 500ms ease;
 }
 
